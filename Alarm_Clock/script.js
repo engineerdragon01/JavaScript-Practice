@@ -13,3 +13,7 @@
 // limitations under the License.
 
 console.log("script is running...");
+
+function myAlarm(time) {
+    console.log(`Hey, you, wake up. It's ${time}`)
+}
